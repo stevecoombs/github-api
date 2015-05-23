@@ -8,6 +8,7 @@ body{
 	width: 100%;
 	font-family: sans-serif;
 	background-image: url('https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png');
+	background-size: 50px;
 }
 
 .main-container{
