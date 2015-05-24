@@ -19,3 +19,9 @@ body{
 	border-radius: 10px;
 	text-align: center
 }
+
+.avatar{
+	height: 20%;
+	width: 20%;
+	border-radius: 50%;
+}
